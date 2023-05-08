@@ -1,0 +1,29 @@
+#menu {
+    display: flex;
+    align-items: center;
+    font-family: monospace;
+    color:  rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 20pt;
+   
+
+}
+
+#menu ul {
+
+    text-align: center;
+}
+#menu a {
+
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+#menu a:hover {transition: .4s; color: rgb(242, 186, 84); }
+
+
+
+#menu li {
+    display: inline;
+    margin: 120px;
+    padding: o 20px 0 20px;
+}
